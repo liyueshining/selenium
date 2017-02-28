@@ -2,18 +2,18 @@
 
 # best practice:
 
- ##  OS WIN XP 32
+ * OS WIN XP 32
  
- ##  Python : 2.7.8
+ * Python : 2.7.8
  
- ##  Selenium : latest version
+ * Selenium : latest version
  
- ##  Chrome : 49.0.xx
+ * Chrome : 49.0.xx
  
- ##  chromedriver : http://download.csdn.net/detail/amytest/8625325
+ * chromedriver : http://download.csdn.net/detail/amytest/8625325
  
  
- ##  example
+ * example
  
  ```python
 #coding=UTF-8
