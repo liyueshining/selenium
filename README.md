@@ -1,6 +1,6 @@
-# selenium-practices
+# Selenium-practices
 
-# best practice:
+# Best Practice:
 
  * OS WIN XP 32
  
